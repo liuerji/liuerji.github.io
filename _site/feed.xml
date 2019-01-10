@@ -3,10 +3,10 @@
   <channel>
     <title>Sciblog</title>
     <description></description>
-    <link>http://localhost:4000/sciblog/</link>
-    <atom:link href="http://localhost:4000/sciblog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Jan 2019 20:15:53 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Jan 2019 20:15:53 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Jan 2019 20:33:50 +0800</pubDate>
+    <lastBuildDate>Thu, 10 Jan 2019 20:33:50 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -23,8 +23,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/technology/2016/02/11/eleventh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/technology/2016/02/11/eleventh.html</guid>
+        <link>http://localhost:4000/technology/2016/02/11/eleventh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/2016/02/11/eleventh.html</guid>
         
         <category>css</category>
         
@@ -49,8 +49,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/technology/2016/02/09/tenth.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/technology/2016/02/09/tenth.html</guid>
+        <link>http://localhost:4000/technology/2016/02/09/tenth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/2016/02/09/tenth.html</guid>
         
         <category>css</category>
         
@@ -75,8 +75,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/technology/2016/02/09/nineth.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/technology/2016/02/09/nineth.html</guid>
+        <link>http://localhost:4000/technology/2016/02/09/nineth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/2016/02/09/nineth.html</guid>
         
         <category>journey</category>
         
@@ -101,8 +101,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/eight-post</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/eight-post</guid>
+        <link>http://localhost:4000/eight-post</link>
+        <guid isPermaLink="true">http://localhost:4000/eight-post</guid>
         
         <category>html</category>
         
@@ -127,8 +127,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/technology/2016/02/07/seventh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/technology/2016/02/07/seventh.html</guid>
+        <link>http://localhost:4000/technology/2016/02/07/seventh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/2016/02/07/seventh.html</guid>
         
         <category>octopress</category>
         
@@ -153,8 +153,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/education/writing/2016/02/06/sixth-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/education/writing/2016/02/06/sixth-post.html</guid>
+        <link>http://localhost:4000/education/writing/2016/02/06/sixth-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/writing/2016/02/06/sixth-post.html</guid>
         
         
         <category>education</category>
@@ -177,8 +177,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/technology/2016/02/05/fifth.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/technology/2016/02/05/fifth.html</guid>
+        <link>http://localhost:4000/technology/2016/02/05/fifth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/2016/02/05/fifth.html</guid>
         
         <category>holiday</category>
         
@@ -203,8 +203,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/jekyll/technology/2016/02/04/fourth-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/jekyll/technology/2016/02/04/fourth-post.html</guid>
+        <link>http://localhost:4000/jekyll/technology/2016/02/04/fourth-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/technology/2016/02/04/fourth-post.html</guid>
         
         <category>css</category>
         
@@ -229,8 +229,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/science/2016/02/03/third-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/science/2016/02/03/third-post.html</guid>
+        <link>http://localhost:4000/science/2016/02/03/third-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/science/2016/02/03/third-post.html</guid>
         
         
         <category>science</category>
@@ -251,8 +251,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/sciblog/technology/computer/news/2016/02/02/second-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sciblog/technology/computer/news/2016/02/02/second-post.html</guid>
+        <link>http://localhost:4000/technology/computer/news/2016/02/02/second-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/computer/news/2016/02/02/second-post.html</guid>
         
         <category>holiday</category>
         
