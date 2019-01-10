@@ -14,7 +14,6 @@ url: "http://liuerji.github.io" # the base hostname & protocol for your site
 author: AIRRAYA
 
 # Gems
-# plugins: [jekyll-paginate]
 gems: [jekyll-paginate]
 
 # Build settings
